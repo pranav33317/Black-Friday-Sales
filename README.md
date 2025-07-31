@@ -1,0 +1,1 @@
+Analyzed Black Friday sales data to uncover insights into consumer behavior and sales trends. Used Python (Pandas, Matplotlib, Seaborn) to clean, process, and visualize the data, leading to actionable recommendations for targeted marketing and inventory optimization.
